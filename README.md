@@ -2,7 +2,7 @@
 - 🔭 **Back-End** / **DATA** / **AI** Engineer
 - 📚 <a href = "http://www.konkuk.ac.kr/do/Index.do">Konkuk University CSE (2021.03 ~ )</a>
 - 🌱 learning **Java Spring**
-- 👯 looking collaborations on **web Projects**
+- 👯 looking collaborations on **Web Projects**
 - 📫 How to reach me: codekat@naver.com
 - 😄 Pronouns: **slow but steady**
 
