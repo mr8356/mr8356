@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongHyun%20Jo&fontSize=90)
-- 🔭 **Back-End** , **AI** Engineer
-- 📚 Konkuk Univ - CSE
-- 🌱 I’m currently learning **Java Spring** , nodejs(express)
-- 👯 I’m looking collaborations on **web Projects**
+- 🔭 **Back-End** / **DATA** / **AI** Engineer
+- 📚 <a href = "http://www.konkuk.ac.kr/do/Index.do">Konkuk University CSE (2021.03 ~ )</a>
+- 🌱 learning **Java Spring** , nodejs(express)
+- 👯 looking collaborations on **web Projects**
 - 📫 How to reach me: codekat@naver.com
 - 😄 Pronouns: **slow but steady**
 
