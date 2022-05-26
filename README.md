@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Donghyun%20Jo%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongHyun%20Jo&fontSize=90)
 - 🔭 **Back-End** , **AI** Engineer
 - 📚 Konkuk Univ - CSE
 - 🌱 I’m currently learning **Java Spring** , nodejs(express)
