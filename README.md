@@ -18,9 +18,9 @@
 <a target="_blank"><img src="https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/nodeJS-darkgreen?style=flat-square&logo=node.js&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Express-gray?style=flat-square&logo=express&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/css-blue?style=flat-square&logo=css3&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/javaScript-yello?style=flat-square&logo=javascript&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/></a>
 
 
