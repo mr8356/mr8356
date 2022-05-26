@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Donghyun%20Jo%20&fontSize=90)
-- 🔭 my GOAL is **Back-End** , **AI** Engineer
+- 🔭 **Back-End** , **AI** Engineer
 - 📚 Konkuk Univ - CSE
 - 🌱 I’m currently learning **Java Spring** , nodejs(express)
 - 👯 I’m looking collaborations on **web Projects**
