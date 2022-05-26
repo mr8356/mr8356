@@ -15,7 +15,7 @@
 
 **Sub Stacks**
 
-<a target="_blank"><img src="https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=C&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/nodeJS-darkgreen?style=flat-square&logo=node.js&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white"/></a>
@@ -23,4 +23,5 @@
 <a target="_blank"><img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/></a>
 
+<!-- <a target="_blank"><img src="https://img.shields.io/badge/C/C++-blue?style=flat-square&logo=C%2b%2b&logoColor=white"/></a> -->
 
