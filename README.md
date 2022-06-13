@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongHyun%20Jo&fontSize=90)
 - 🔭 **Back-End** / **DATA** / **AI** Engineer
 - 📚 <a href = "http://www.konkuk.ac.kr/do/Index.do">Konkuk University CSE (2021.03 ~ )</a>
+- 🌱 currently learning **NestJS (TypeScript)**
+
+- 
 - 👯 looking collaborations on **Web Projects**
 - 📫 How to reach me: codekat@naver.com
-
 
 **Main Stacks**
 
@@ -27,7 +29,8 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Unity-gray?style=flat-square&logo=Unity&logoColor=white"/></a>
 
 
-🌱 currently learning **NestJS (TypeScript)**
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
