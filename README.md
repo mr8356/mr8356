@@ -30,8 +30,5 @@
 
 
 
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
 <!-- <a target="_blank"><img src="https://img.shields.io/badge/C/C++-blue?style=flat-square&logo=C%2b%2b&logoColor=white"/></a> -->
 
