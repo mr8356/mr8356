@@ -26,7 +26,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Jquery-white?style=flat-square&logo=Jquery&logoColor=blue"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Unity-gray?style=flat-square&logo=Unity&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/mongoDB-white?style=flat-square&logo=MongoDB&logoColor=green"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/mongoDB-white?style=flat-square&logo=MongoDB&logoColor=darkgreen"/></a>
 
 
 
