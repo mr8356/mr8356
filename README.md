@@ -18,7 +18,7 @@
 
 <a target="_blank"><img src="https://img.shields.io/badge/nodeJS-darkgreen?style=flat-square&logo=node.js&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=springboot&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/MySQL-gray?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&logoColor=white"/></a>
