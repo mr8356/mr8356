@@ -20,7 +20,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=springboot&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/MySQL-gray?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/></a>
