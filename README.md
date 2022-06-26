@@ -5,6 +5,8 @@
 - 🌱 currently learning **NestJS (TypeScript)**
 - 👯 looking collaborations on **Web Projects**
 - 📫 How to reach me: codekat@naver.com
+- I am a developer who wants to grow in any adverse conditions.
+- 저는 어떠한 악조건에서도 성장하려는 개발자입니다.
 
 **Main Stacks**
 
