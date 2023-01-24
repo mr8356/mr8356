@@ -10,14 +10,15 @@
 
 **Main Stacks**
 
-<a target="_blank"><img src="https://img.shields.io/badge/JAVA-red?style=flat-square&logo=java&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/NestJs-darkred?style=flat-square&logo=nestJS&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JAVA-red?style=flat-square&logo=Java&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=springboot&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C-indigo?style=flat-square&logo=C&logoColor=white"/></a>
 
 
 **Sub Stacks**(Used at least once)
 
+<a target="_blank"><img src="https://img.shields.io/badge/NestJs-darkred?style=flat-square&logo=nestJS&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/nodeJS-darkgreen?style=flat-square&logo=node.js&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=springboot&logoColor=white"/></a>
