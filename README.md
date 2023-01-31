@@ -2,7 +2,7 @@
 
 - 🔭 **Back-End** / **DATA** / **AI** Engineer
 - 📚 <a href = "http://www.konkuk.ac.kr/do/Index.do">Konkuk University CSE (2021.03 ~ )</a>
-- 🌱 currently learning **NestJS (TypeScript)**
+- 🌱 currently learning **Spring Boot (Java)**
 - 👯 looking collaborations on **Web Projects**
 - 📫 How to reach me: codekat@naver.com
 - I am a developer who wants to grow in any adverse conditions.
