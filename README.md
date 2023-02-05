@@ -10,23 +10,25 @@
 
 **Main Stacks**
 
-<a target="_blank"><img src="https://img.shields.io/badge/JAVA-red?style=flat-square&logo=java&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=springboot&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JAVA-red?style=flat-square&logo=redhat&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Spring-darkgreen?style=flat-square&logo=spring&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C-indigo?style=flat-square&logo=C&logoColor=white"/></a>
 
 
 **Sub Stacks**(Used at least once)
 
-<a target="_blank"><img src="https://img.shields.io/badge/NestJs-darkred?style=flat-square&logo=nestJS&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/NestJS-darkred?style=flat-square&logo=nestJS&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/nodeJS-darkgreen?style=flat-square&logo=node.js&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=springboot&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Jquery-white?style=flat-square&logo=Jquery&logoColor=blue"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Unity-gray?style=flat-square&logo=Unity&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/mongoDB-white?style=flat-square&logo=MongoDB&logoColor=darkgreen"/></a>
