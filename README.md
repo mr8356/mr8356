@@ -15,12 +15,12 @@
 <a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C-indigo?style=flat-square&logo=C&logoColor=white"/></a>
 
 
 **Sub Stacks**(Used at least once)
 
+<a target="_blank"><img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/NestJS-darkred?style=flat-square&logo=nestJS&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/nodeJS-darkgreen?style=flat-square&logo=node.js&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white"/></a>
