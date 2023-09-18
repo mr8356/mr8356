@@ -8,6 +8,13 @@
 - I am a developer who wants to grow in any adverse conditions.
 - 저는 어떠한 악조건에서도 성장하려는 개발자입니다.
 
+---
+**Solved.ac(Baekjoon) Profile**
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mr8356)](https://solved.ac/mr8356)
+
+---
+
 **Main Stacks**
 
 <a target="_blank"><img src="https://img.shields.io/badge/JAVA-red?style=flat-square&logo=redhat&logoColor=white"/></a>
