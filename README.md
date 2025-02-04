@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongHyun%20Jo&fontSize=90)
 
-- 🔭 **Back-End** / **DATA** / **AI** Engineer
+- 🔭 **Back-End** / **Cloud System** Architect
 - 📚 <a href = "http://www.konkuk.ac.kr/do/Index.do">Konkuk University CSE (2021.03 ~ )</a>
 - 🌱 currently learning **Spring Boot (Java)**
 - 👯 looking collaborations on **Web Projects**
