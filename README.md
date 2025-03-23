@@ -1,12 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongHyun%20Jo&fontSize=90)
 
-- 🔭 **Back-End** / **Cloud System** Architect
-- 📚 <a href = "http://www.konkuk.ac.kr/do/Index.do">Konkuk University CSE (2021.03 ~ )</a>
-- 🌱 currently learning **Spring Boot (Java)**
-- 👯 looking collaborations on **Web Projects**
-- 📫 How to reach me: codekat@naver.com
-- I am a developer who wants to grow in any adverse conditions.
-- 저는 어떠한 악조건에서도 성장하려는 개발자입니다.
+- 🔭 **Cloud System Architect / Back-End Developer**
+- 📚 <a href="http://www.konkuk.ac.kr/do/Index.do">건국대학교 컴퓨터공학부 (2021.03 ~ )</a>  
+- 🧪 건국대학교 DMS LAB SYSTEM팀 소속 학부연구생  
+- ☁️ OpenStack, Kubernetes 기반의 Private Cloud MLops 환경 구축  
+- 🧑‍💻 SOPT Server YB 35기 / KUIT Server 4기  
+- 🏆 SOPKATON(SOPT 해커톤) **최우수상** / SOPT-APPJAM **우수상**  
+- 🏡 Roomie Backend Developer  
+  - Java Spring, Redis Message Queue, MySQL, Docker, AWS 활용  
+  - 이벤트 기반 아키텍처 설계 및 서버 구현  
+- ✍️ 방문자 10만명, 글 200개의 개발 블로그  <a href="https://konkukcodekat.tistory.com/">‘동현의 코딩여행’</a> 운영 중  
+- 🌱 저는 **어떠한 악조건에서도 성장하려는 개발자**입니다.
 
 ---
 **Solved.ac(Baekjoon) Profile**
