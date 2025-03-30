@@ -21,7 +21,7 @@
 
 **Main Stacks**
 
-<a target="_blank"><img src="https://img.shields.io/badge/JAVA-red?style=flat-square&logo=redhat&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JAVA-red?style=flat-square&logo=bean&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Spring-darkgreen?style=flat-square&logo=spring&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/></a>
