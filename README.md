@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongHyun%20Jo&fontSize=90)
 
-- 🔭 **Cloud Engineer / Back-End Developer / System Architect**
+- 🔭 **Cloud Engineer / System Architect**
 - 📚 <a href="http://www.konkuk.ac.kr/do/Index.do">건국대학교 컴퓨터공학부 (2021.03 ~ )</a>  
 - 🧪 건국대학교 DMS LAB SYSTEM팀 소속 학부연구생  
 - ☁️ OpenStack, Kubernetes 기반의 Private Cloud MLops 환경 구축  
