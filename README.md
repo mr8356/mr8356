@@ -8,7 +8,11 @@
 
 <br>
 
-> A passionate Cloud Engineer specializing in robust, scalable systems with proven expertise in Kubernetes, Java Spring, and OpenStack. Successfully architected and deployed an entire on-premise private cloud from scratch. Skilled in optimizing performance with Microservice (MSA) and Event-Driven (EDA) patterns.
+A passionate Cloud Engineer specializing in robust, scalable systems with proven expertise in **Kubernetes**, **Java Spring**, and **OpenStack**.
+
+Successfully architected and deployed an entire **on-premise private cloud** from scratch. 
+
+Skilled in optimizing performance with **Microservice (MSA) and Event-Driven (EDA) patterns**.
 
 ---
 
@@ -25,6 +29,11 @@
 *(Sep 2024 — Feb 2025)*
 - Honed advanced Java Spring & CI/CD skills in a 200+ member IT community under the mentorship of a senior software engineer from Naver Webtoon.
 - Selected as Server Lead for three major events (Joint Seminar, Hackathon, Demo Day) shortly after joining, demonstrating rapid technical growth and trust.
+
+### **President, Academic Club 'Bibimbap'**
+*(Jan 2025 — Present)*
+- Led weekly seminars on Software Architecture, covering various design patterns and fault-tolerant system design.
+- Mentored junior members on virtualization technologies and best practices for system architecture.
 
 ---
 
@@ -79,6 +88,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mr8356)](https://solved.ac/mr8356)
 
----
 
-> 🌱 I am a developer who strives to grow even under the most adverse conditions.
+---
+🌱 I am a developer who strives to grow even under the most adverse conditions.
+---
