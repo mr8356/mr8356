@@ -30,6 +30,8 @@ Skilled in optimizing performance with **Microservice (MSA) and Event-Driven (ED
 - Honed advanced Java Spring & CI/CD skills in a 200+ member IT community under the mentorship of a senior software engineer from Naver Webtoon.
 - Selected as Server Lead for three major events (Joint Seminar, Hackathon, Demo Day) shortly after joining, demonstrating rapid technical growth and trust.
 
+<br>
+
 ### **President, Academic Club 'Bibimbap'**
 *(Jan 2025 — Present)*
 - Led weekly seminars on Software Architecture, covering various design patterns and fault-tolerant system design.
