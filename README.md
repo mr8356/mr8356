@@ -6,7 +6,6 @@
 - 단순한 도구 활용을 넘어 **Docker(runc/Namespace), Nginx 아키텍처, Kernel System Call** 등 기술의 이면을 깊이 탐구하며 문제의 본질을 해결합니다.
 - **Kubernetes(K8s)** 도입과 HPA 적용을 주도하여 가용성을 2.5배 향상시켰으며, **AWS 기반 데이터 파이프라인 최적화**를 수행했습니다.
 - **AWS Cloud Club 초대 캡틴** 및 **300+ 포스트(13만+ 방문) 기술 블로그** 운영자로 리더십과 공유의 가치를 실천합니다.
-- [Aws Cloud Club at Konkuk Meetup link](https://www.meetup.com/aws-cloud-club-at-konkuk-university/)
 
 <br>
 
@@ -16,6 +15,7 @@
 - **📄 Blog:** https://konkukcodekat.tistory.com/
 - **🔗 LinkedIn:** http://www.linkedin.com/in/mr8356
 - **🔗 Portfolio:** https://romantic-grin-797.notion.site/Donghyun-Jo-2a98683815268190be2bc39591142f38
+- **Aws Cloud Club at Konkuk Meetup:** https://www.meetup.com/aws-cloud-club-at-konkuk-university/
 
 ---
 
