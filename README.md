@@ -1,11 +1,12 @@
 # 조동현 | DevOps & Cloud Engineer
 
-<img align="left" width="150" alt="profile" src="https://github.com/user-attachments/assets/4492185f-72a8-4eea-842e-5e887c9eb590" />
+<img align="left" width="150" alt="profile" src="https://github.com/user-attachments/assets/f6bfe9b4-6694-4789-b56a-01ce33d560dc" />
 
 - 시스템의 근본 원리(OS, Network)를 파고들어 최적의 성능을 이끌어내는 DevOps 엔지니어 조동현입니다.
 - 단순한 도구 활용을 넘어 **Docker(runc/Namespace), Nginx 아키텍처, Kernel System Call** 등 기술의 이면을 깊이 탐구하며 문제의 본질을 해결합니다.
 - **Kubernetes(K8s)** 도입과 HPA 적용을 주도하여 가용성을 2.5배 향상시켰으며, **AWS 기반 데이터 파이프라인 최적화**를 수행했습니다.
 - **AWS Cloud Club 초대 캡틴** 및 **300+ 포스트(13만+ 방문) 기술 블로그** 운영자로 리더십과 공유의 가치를 실천합니다.
+- [Aws Cloud Club at Konkuk Meetup link](https://www.meetup.com/aws-cloud-club-at-konkuk-university/)
 
 <br>
 
@@ -147,7 +148,7 @@
 > *2025.11 - Present*
 
 - 건국대학교 **초대 AWS Cloud Club 캡틴**으로 선정 (Founding Captain).
-- [Certification.pdf](attachment:03d9b343-10bd-4317-a76d-eac7a08e422e:Certification.pdf)
+- [meet up link](https://www.meetup.com/aws-cloud-club-at-konkuk-university/)
 
 ### KUIT (대학생 IT 연합 동아리) | 6기 서버 파트장
 > *2025.09 - Present*
