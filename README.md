@@ -1,4 +1,4 @@
-# 조동현 | DevOps & Cloud Engineer
+# 조동현 | Cloud Native DevOps & Platform Engineer
 
 <img align="left" width="150" alt="profile" src="https://github.com/user-attachments/assets/f6bfe9b4-6694-4789-b56a-01ce33d560dc" />
 
