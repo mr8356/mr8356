@@ -56,6 +56,27 @@
 
 ## 🚀 Projects & Activities
 
+### **FinOps 컨설팅 (RobotCom 스타트업 AWS 인프라 비용 최적화)**
+
+**"서버 담당자 부재 환경에서 무중단 마이그레이션 및 인프라 비용 87% 감축"**
+
+> **진행 기간 : 2026년 3월 (일당 외주)**
+> 
+- **Role:** FinOps 컨설턴트 — 인프라 진단, 무중단 마이그레이션, 아키텍처 재설계
+- **Tech:** AWS EC2, EBS, CloudWatch, EC2 Image Builder, ALB, VPC, S3, CloudFront, Route 53, ACM, IAM
+- **Links:** https://konkukcodekat.tistory.com/377
+1. **FinOps 실천: EC2 비용 83% 감축 ($84→$14)**
+    - **[Analysis]** CloudWatch CPU 지표(평소 1%, 피크 20% 미만)를 기반으로 t2.large의 오버프로비저닝을 수치로 증명.
+    - **[Decision]** t2→t3 세대 전환 + 3년 RI 선결제(ROI 165%)를 대표에게 설득하여 **월 $84.10 → $14.3으로 83% 감축.**
+2. **Deep Dive: 무중단 EC2 스펙 다운그레이드**
+    - **[Problem]** 서버 담당자 퇴사 상태에서 인스턴스 중단 시 서비스 복구 불가 리스크.
+    - **[Solution]** EBS 스냅샷 → EC2 Image Builder AMI 파이프라인 → ALB 스위칭으로 **서비스 중단 0분** 달성. 파이프라인 구축 중 IAM Trust Policy 누락 및 **vmie 커널 버전 불일치(6.8.0-1040-aws) 버그를 Native AMI 수동 생성으로 우회.**
+3. **오버엔지니어링 발견 및 서버리스 전환**
+    - **[Analysis]** VPC ENI·ELB 종속성 분석으로 좀비 EIP 7개 발견 및 릴리스. 터미널에서 정적 HTML을 EC2+ALB로 서빙 중임을 확인.
+    - **[Result]** S3 + CloudFront CDN + ACM SSL + Route 53 Alias로 서버리스 전환. **인프라 총 비용 월 $115+ → $14 (87% 감축), 3년간 $3,600+ 절감.**
+
+---
+
 ### Food Donor (공공데이터 기반 기부 플랫폼 웹서비스)
 **"Serverless Architecture 기반의 비용 70% 절감 및 데이터 파이프라인 최적화"**
 > **진행 기간 : 2025년 9월 ~ Present**
