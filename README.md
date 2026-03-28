@@ -1,29 +1,37 @@
-# 조동현 | Cloud Native DevOps & Platform Engineer
+# Donghyun Jo (조동현) | DevOps & System Engineer
 
 <img align="left" width="150" alt="profile" src="https://github.com/user-attachments/assets/f6bfe9b4-6694-4789-b56a-01ce33d560dc" />
 
-- 시스템의 근본 원리(OS, Network)를 파고들어 최적의 성능을 이끌어내는 DevOps 엔지니어 조동현입니다.
-- 단순한 도구 활용을 넘어 **Docker(runc/Namespace), Nginx 아키텍처, Kernel System Call** 등 기술의 이면을 깊이 탐구하며 문제의 본질을 해결합니다.
-- **Kubernetes(K8s)** 도입과 HPA 적용을 주도하여 가용성을 2.5배 향상시켰으며, **AWS 기반 데이터 파이프라인 최적화**를 수행했습니다.
-- **AWS Cloud Club 초대 캡틴** 및 **300+ 포스트(13만+ 방문) 기술 블로그** 운영자로 리더십과 공유의 가치를 실천합니다.
+- A **systems-oriented DevOps Engineer** who goes beyond tool-level usage to dissect the internals:
+    - **Kubernetes** networking at the **Linux kernel level** (iptables, route tables, conntrack, Calico CNI)
+    - **Nginx event-driven architecture**, and kernel **system calls** to solve problems at their root.
+    - **Prometheus TSDB internals**, optimizing **kernel writeback** and **WAL/mmap** to mitigate I/O spikes and ensure high-throughput zero-copy storage.
 
-<br>
-<br>
+- Actively documenting the journey on a **tech blog with 300+ posts and 130K+ visitors**.
 
----
-
-## 📞 Contacts
-- **✉️ Email:** mr8356@naver.com
-- **🐱 Github:** https://github.com/mr8356
-- **📄 Blog:** https://konkukcodekat.tistory.com/
-- **🔗 LinkedIn:** http://www.linkedin.com/in/mr8356
-- **🔗 Portfolio:** https://romantic-grin-797.notion.site/Donghyun-Jo-2a98683815268190be2bc39591142f38
-- **Aws Cloud Club at Konkuk Meetup:** https://www.meetup.com/aws-cloud-club-at-konkuk-university/
+- Selected (Nov 2025) as the founding **AWS Cloud Club Captain** for Konkuk University.
 
 ---
 
-## 🛠 Skills
-- **Backend:** Java, Spring Boot
+## Contacts
+
+**✉️ Email**  
+> mr8356@naver.com
+
+**🐱 Github**  
+> https://github.com/mr8356
+
+**📄 Blog**  
+> [동현의 코딩여행 (konkukcodekat.tistory.com)](https://konkukcodekat.tistory.com/)
+
+**LinkedIn**  
+> http://www.linkedin.com/in/mr8356
+
+---
+
+## Skills
+
+- **Language:** Java(Spring Boot), Python(PS), C(Device Driver)
 - **Cloud-Native:** AWS (Lambda, EKS, DynamoDB, RDS, EC2, Api-gateway, ELB, SQS), AWS CLI
 - **Infrastructure:** Kubernetes, Docker, OpenStack, Nginx, Terraform(Basic)
 - **Monitoring:** Prometheus, Grafana, Istio
@@ -32,169 +40,182 @@
 
 ---
 
-## 🎓 Education
-**건국대학교** | 컴퓨터공학부
-> 2021.03 - 2027.02 (예정)
+## Education
 
-- **학점 :** 4.26 / 4.5
-- **성적 우수 장학금 (Top 5%)**
-  - 2024 2학기 Dean's List
-  - 2025 1학기 Dean's List
-  - 2025 2학기 President's List
-
----
-
-## 🔬 Technical Deep-Dive
-- https://konkukcodekat.tistory.com/372
-- https://konkukcodekat.tistory.com/362
-- https://konkukcodekat.tistory.com/367
-- https://konkukcodekat.tistory.com/369
-- https://konkukcodekat.tistory.com/370
-- https://konkukcodekat.tistory.com/373
+- **Konkuk University** | Computer Science & Engineering
+- **Mar 2021 - Feb 2027 (Expected)**
+- **GPA:** 4.26 / 4.5
+- **Academic Excellence Scholarship (Top 5%)**
+    - 2024 Fall Dean's List
+    - 2025 Spring Dean's List
+    - 2025 Fall President's List
 
 ---
 
-## 🚀 Projects & Activities
+## Technical Deep-Dive
 
-### **FinOps 컨설팅 (RobotCom 스타트업 AWS 인프라 비용 최적화)**
+- [[K8s] Kernel-Level Networking Analysis: Service VIP to Pod (iptables, route, Calico CNI IPIP Mode)](https://konkukcodekat.tistory.com/372)
+- [[DevOps Interview Retrospective] TLB, K8s Internals & Kernel Isolation, TLS Handshake](https://konkukcodekat.tistory.com/362)
+- [[DevOps Interview Retrospective #2] K8s Control Plane Scalability & Load, mTLS](https://konkukcodekat.tistory.com/367)
+- [Limitations of Thread-Based Servers (C10K Problem) & Nginx Process Model for Reducing Context-Switching Overhead](https://konkukcodekat.tistory.com/369)
+- [How Nginx Handles High-Volume Traffic via Non-blocking I/O Multiplexing & epoll System Calls](https://konkukcodekat.tistory.com/370)
+- [[Nginx] Zero Copy (sendfile) Kernel Internals & System Call Tracing via strace](https://konkukcodekat.tistory.com/373)
 
-**"서버 담당자 부재 환경에서 무중단 마이그레이션 및 인프라 비용 87% 감축"**
+---
 
-> **진행 기간 : 2026년 3월 (일당 외주)**
-> 
-- **Role:** FinOps 컨설턴트 — 인프라 진단, 무중단 마이그레이션, 아키텍처 재설계
+## Projects & Activities
+
+### **FinOps Consulting (RobotCom Startup AWS Infrastructure Cost Optimization)**
+
+**"Zero-Downtime Migration & 87% Infrastructure Cost Reduction Without a Dedicated Server Admin"**
+
+> **Period: Mar 2026 (Short-term Contract)**
+
+- **Role:** FinOps Consultant — Infrastructure Diagnosis, Zero-Downtime Migration, Architecture Redesign
 - **Tech:** AWS EC2, EBS, CloudWatch, EC2 Image Builder, ALB, VPC, S3, CloudFront, Route 53, ACM, IAM
-- **Links:** https://konkukcodekat.tistory.com/377
-1. **FinOps 실천: EC2 비용 83% 감축 ($84→$14)**
-    - **[Analysis]** CloudWatch CPU 지표(평소 1%, 피크 20% 미만)를 기반으로 t2.large의 오버프로비저닝을 수치로 증명.
-    - **[Decision]** t2→t3 세대 전환 + 3년 RI 선결제(ROI 165%)를 대표에게 설득하여 **월 $84.10 → $14.3으로 83% 감축.**
-2. **Deep Dive: 무중단 EC2 스펙 다운그레이드**
-    - **[Problem]** 서버 담당자 퇴사 상태에서 인스턴스 중단 시 서비스 복구 불가 리스크.
-    - **[Solution]** EBS 스냅샷 → EC2 Image Builder AMI 파이프라인 → ALB 스위칭으로 **서비스 중단 0분** 달성. 파이프라인 구축 중 IAM Trust Policy 누락 및 **vmie 커널 버전 불일치(6.8.0-1040-aws) 버그를 Native AMI 수동 생성으로 우회.**
-3. **오버엔지니어링 발견 및 서버리스 전환**
-    - **[Analysis]** VPC ENI·ELB 종속성 분석으로 좀비 EIP 7개 발견 및 릴리스. 터미널에서 정적 HTML을 EC2+ALB로 서빙 중임을 확인.
-    - **[Result]** S3 + CloudFront CDN + ACM SSL + Route 53 Alias로 서버리스 전환. **인프라 총 비용 월 $115+ → $14 (87% 감축), 3년간 $3,600+ 절감.**
+- **Blog:** https://konkukcodekat.tistory.com/377
+1. **FinOps in Practice: 83% EC2 Cost Reduction ($84 → $14)**
+    - **[Analysis]** Proved overprovisioning of t2.large with CloudWatch CPU metrics (avg 1%, peak <20%).
+    - **[Decision]** Persuaded the CEO to adopt t2→t3 migration + 3-year RI prepayment (ROI 165%), reducing monthly cost from **$84.10 → $14.30 (83% savings).**
+2. **Deep Dive: Zero-Downtime EC2 Spec Downgrade**
+    - **[Problem]** Server admin had resigned; stopping the instance risked unrecoverable service outage.
+    - **[Solution]** EBS Snapshot → EC2 Image Builder AMI Pipeline → ALB switching achieved **0 minutes of downtime**. Worked around IAM Trust Policy omission and **vmie kernel version mismatch (6.8.0-1040-aws) bug via native AMI manual creation.**
+3. **Over-Engineering Discovery & Serverless Migration**
+    - **[Analysis]** Discovered 7 zombie EIPs via VPC ENI/ELB dependency analysis. Confirmed static HTML was being served via EC2+ALB.
+    - **[Result]** Migrated to S3 + CloudFront CDN + ACM SSL + Route 53 Alias (Serverless). **Total infra cost: $115+/mo → $14/mo (87% reduction), saving $3,600+ over 3 years.**
 
 ---
 
-### Food Donor (공공데이터 기반 기부 플랫폼 웹서비스)
-**"Serverless Architecture 기반의 비용 70% 절감 및 데이터 파이프라인 최적화"**
-> **진행 기간 : 2025년 9월 ~ Present**
+### **Food Donor (Public Data-Driven Donation Platform Web Service)**
 
-- **Role:** Cloud Architecture 설계 및 Backend 개발, IaC 구축(진행중)
+**"70% Cost Reduction & Data Pipeline Optimization via Serverless Architecture"**
+
+> **Period: Sep 2025 - Present**
+
+- **Role:** Cloud Architecture Design & Backend Development, IaC Implementation (In Progress)
 - **Tech:** AWS Lambda, Athena, Glue, S3, EventBridge, Bedrock, SQS, Terraform
-- **Links:** https://github.com/FoodDonorService/foodDonor-aws
+- **GitHub:** https://github.com/FoodDonorService/foodDonor-aws
 
 <div align="center">
   <img width="100%" alt="Food Donor Architecture" src="https://github.com/user-attachments/assets/afdf7a21-e37d-41a3-b23f-25789dec5ff2" />
 </div>
 
-1. **FinOps 실천: 데이터 기반의 Serverless 전환 (비용 70% 절감)**
-   - **[Analysis]** 간헐적 ETL 작업에 EC2는 비효율적이라 판단, **AWS Calculator**로 비용 시뮬레이션을 수행.
-   - **[Decision]** **Serverless(Lambda, Athena)가 EC2 대비 70% 저렴함**을 수치로 증명하고, API Gateway와 Lambda 기반의 MSA 아키텍처를 구축하여 비용 효율과 유연성을 모두 확보
-2. **Deep Dive: 대용량 처리 안정성 확보**
-   - **[Problem]** 대용량 JSON 수집 과정에서 Lambda Runtime **OOM**(Out Of Memory) 발생.
-   - **[Solution]** 비용이 드는 리소스 증설 대신, **Streaming 및 Chunking 기법**을 도입하여 로직 개선만으로 파이프라인 안정화
-     - https://konkukcodekat.tistory.com/352
-3. **Athena 쿼리 성능 및 비용 최적화 (비용 90% 절감)**
-   - **[Optimization]** Athena 과금 모델(스캔 데이터양)을 분석하여 비용 누수 지점을 발견
-   - **[Result]** Glue를 통해 데이터를 `Parquet`로 변환하고 `S3 Partitioning`을 적용, 불필요한 스캔을 차단하여 **쿼리 비용을 90% 절감**
-     - https://konkukcodekat.tistory.com/353
-4. **Legacy 인프라의 Terraform IaC 전환 (Reverse Engineering)**
-   - **[Modernization] Former2**를 활용해 콘솔 기반 인프라를 **리버스 엔지니어링**하고, 하드코딩 제거 및 모듈화를 수행, S3 Backend 구축
+1. **FinOps in Practice: Data-Driven Serverless Migration (70% Cost Reduction)**
+    - **[Analysis]** EC2 deemed inefficient for intermittent ETL workloads; performed cost simulation with **AWS Calculator**.
+    - **[Decision]** Quantitatively proved **Serverless (Lambda, Athena) is 70% cheaper than EC2**, and built an MSA architecture based on API Gateway + Lambda for both cost efficiency and flexibility.
+2. **Deep Dive: Ensuring Stability for Large-Scale Processing**
+    - **[Problem]** Lambda Runtime **OOM** (Out Of Memory) during large-scale JSON ingestion.
+    - **[Solution]** Instead of costly resource scaling, applied **Streaming & Chunking techniques** to stabilize the pipeline through logic optimization alone.
+        - [[AWS Lambda] Streaming + Chunking to Resolve Runtime.OutOfMemory in Big Data Batch Pipeline](https://konkukcodekat.tistory.com/352)
+3. **Athena Query Performance & Cost Optimization (90% Cost Reduction)**
+    - **[Optimization]** Identified cost leakage by analyzing Athena's billing model (scanned data volume).
+    - **[Result]** Converted data to **Parquet** via Glue and applied **S3 Partitioning**, blocking unnecessary scans to achieve **90% query cost reduction**.
+        - [[AWS Glue] PySpark: Converting Streamed Split JSON to Columnar Data via Parquet + Partitioning](https://konkukcodekat.tistory.com/353)
+4. **Legacy Infrastructure → Terraform IaC Migration (Reverse Engineering)**
+    - **[Modernization]** Reverse-engineered console-based infrastructure using **Former2**, removed hardcoding, modularized, and set up S3 Backend.
 
 ---
 
-### CashTicket (고가용성 티켓팅 웹서비스)
-**"Kubernetes 기반의 오토스케일링 환경 구축 및 2.5배 성능 향상"**
-> **진행 기간 : 2024년 12월 ~ 2025년 6월**
+### **CashTicket (High-Availability Ticketing Web Service)**
+
+**"2.5x Performance Improvement via Kubernetes-Based Auto-Scaling"**
+
+> **Period: Dec 2024 - Jun 2025**
 
 - **Role:** Infrastructure Lead & Backend Engineer
 - **Tech:** Kubernetes, Java, Spring Boot, Redis
-- **Links:** https://github.com/mr8356/cash_ticket
+- **GitHub:** https://github.com/mr8356/cash_ticket
 
 <div align="center">
   <img width="100%" alt="CashTicket Architecture" src="https://github.com/user-attachments/assets/02b555d9-bd27-46b4-b368-e39ab9d81648" />
 </div>
 
-1. **Kubernetes 인프라 구축 및 운영 (Ownership)**
-   - **[Challenge]** 단일 서버 구조로는 트래픽 스파이크 시 서비스 안정성을 보장할 수 없다고 판단. 높은 러닝 커브에도 불구하고, **직접 Kubernetes 클러스터를 구축**하고 운영 환경을 표준화하여 **고가용성(HA) 아키텍처**를 완성
-   - **[Result]** HPA(Horizontal Pod Autoscaler)를 적용하여 트래픽 변동에 유연하게 대응하는 시스템을 구축
-2. **Redis 대기열 시스템을 통한 트래픽 제어**
-   - **[Optimization]** 선착순 이벤트 시 DB Connection 고갈 방지를 위해 **Redis `Sorted Set`**을 활용. **조회 복잡도를 O(log N)으로 유지**하며 대기열 시스템을 설계해 고성능을 확보.
-   - **[Performance]** 진입 유량 제어(Flow Control)를 통해 시스템 다운을 방지하고, Locust 부하 테스트 결과 **기존 대비 2.5배의 트래픽 처리량(Throughput)**을 달성.
-3. **데이터 정합성 및 코드 품질 확보**
-   - **[Reliability]** Spring Scheduler(CronJob)를 도입하여 만료된 티켓을 주기적으로 정리, 데이터 정합성을 확보. 또한 정기적인 **Code Review**를 주도하여 팀의 기술적 부채를 최소화.
+1. **Kubernetes Infrastructure Setup & Operations (Ownership)**
+    - **[Challenge]** Single-server architecture could not guarantee service stability during traffic spikes. Despite the steep learning curve, personally built and operated a **Kubernetes cluster** to establish a **high-availability (HA) architecture**.
+    - **[Result]** Applied HPA (Horizontal Pod Autoscaler) to build a system that flexibly responds to traffic fluctuations.
+2. **Redis Queue System for Traffic Control**
+    - **[Optimization]** Used **Redis** **Sorted Set** to prevent DB connection exhaustion during first-come-first-served events, maintaining **O(log N) lookup complexity** for high-performance queue design.
+    - **[Performance]** Prevented system downtime via flow control; Locust load testing showed **2.5x improvement in throughput** over baseline.
+3. **Data Consistency & Code Quality Assurance**
+    - **[Reliability]** Introduced Spring Scheduler (CronJob) for periodic cleanup of expired tickets to ensure data consistency. Led regular **Code Reviews** to minimize technical debt.
 
 ---
 
-### Roomie (SOPT 쉐어하우스 중계 플랫폼)
-**"Event-Driven Architecture 도입으로 시스템 결합도 최소화"**
-> **진행 기간 : 2024년 12월 ~ 2025년 6월**
+### Roomie (SOPT Share-House Brokerage Platform)
+
+**"Minimized System Coupling via Event-Driven Architecture"**
+
+> **Period: Dec 2024 - Jun 2025**
 
 - **Role:** Server Lead & Architect
 - **Tech:** Spring Boot, Redis MQ, Docker, GitHub Actions
-- **Links:** https://github.com/WeAreRoommies/Roomie-Server?tab=readme-ov-file
+- **GitHub:** [Roomie-Server (github.com/WeAreRoommies/Roomie-Server)](https://github.com/WeAreRoommies/Roomie-Server?tab=readme-ov-file)
 
 <div align="center">
   <img width="100%" alt="Roomie Architecture" src="https://github.com/user-attachments/assets/70b95be7-3e06-4792-ac3d-b470713c8bdc" />
 </div>
 
-1. **EDA 도입을 통한 병목 해결**
-   - **[Issue]** 동기(Synchronous) 방식의 '입주 신청' 프로세스에서 트래픽 급증 시 **장애 전파 및 Latency 문제**가 발생함을 확인.
-   - **[Architecting]** "알림의 즉시성보다 시스템 안정성이 우선"이라는 **비즈니스 요구사항(Requirements)을 정의**하고, **Redis MQ 기반의 EDA**를 도입.
-   - **[Result]** 핵심 로직과 부가 로직을 비동기로 분리하여 결합도를 낮추고, nGrinder 부하 테스트 기준 **쓰기 처리량을 1.5배 향상**. (`nGrinder` 기준).
-2. **CI/CD 파이프라인 구축**
-   - **[Automation]** 반복적인 수동 배포로 인한 **운영 비효율을 제거**하고자 함.
-   - **[Impact]** Docker와 GitHub Actions를 활용해 배포 파이프라인을 완전 자동화하여, **배포 시간을 단축하고 휴먼 에러를 방지**.
+1. **Bottleneck Resolution via EDA Adoption**
+    - **[Issue]** Synchronous move-in application process caused **cascading failures and latency spikes** under high traffic.
+    - **[Architecting]** Defined business requirement: "System stability takes priority over notification immediacy." Introduced **Redis MQ-based EDA**.
+    - **[Result]** Decoupled core logic from auxiliary logic asynchronously, reducing coupling and achieving **1.5x improvement in write throughput** (`nGrinder` benchmark).
+2. **CI/CD Pipeline Implementation**
+    - **[Automation]** Aimed to eliminate **operational inefficiency** from repetitive manual deployments.
+    - **[Impact]** Fully automated the deployment pipeline using Docker and GitHub Actions, **reducing deployment time and preventing human errors**.
 
 ---
 
-### DMS Lab 학부연구생 (하이브리드 클라우드 모니터링)
-**"OpenStack 기반 프라이빗 클라우드 구축 및 모니터링 환경 확보"**
-> **진행 기간 : 2024년 12월 ~ 2025년 2월**
+### DMS Lab — Undergraduate Researcher (Hybrid Cloud Monitoring)
 
-- **Link:** https://dms.konkuk.ac.kr/people/DongHyun/
-- **Blog:** https://konkukcodekat.tistory.com/356
+**"Built Private Cloud on OpenStack & Established Observability Environment"**
 
-1. **IaaS 환경 구축 및 딥다이브**
-   - **[Action]** 클라우드 가상화 원리를 깊이 이해하기 위해, 베어메탈 환경에서 **OpenStack을 활용해 프라이빗 클라우드를 직접 구축**
-   - **[Outcome]** OpenStack 스터디를 조직/주도하며 IaaS 환경 구축 완료, 전 과정을 **기술 블로그 오픈스택, 쿠버네티스 카테고리에** 상세 기록.
-2. **Observability 확보**
-   - **[Problem]** 구축된 인프라 내부 상태를 파악할 관측(Observability) 수단 부재.
-   - **[Solution]** **Prometheus와 Grafana**를 연동, 하이브리드 클라우드 환경에 대한 실시간 모니터링 대시보드를 구축하여 운영 가시성을 확보.
+- **Lab Page:** [DongHyun Jo (dms.konkuk.ac.kr)](https://dms.konkuk.ac.kr/people/DongHyun/)
+- **Blog:** [K8s Monitoring: Troubleshooting NetworkPolicy Firewall & ServiceMonitor Issues with Separate Helm Charts for Loki and Prometheus](https://konkukcodekat.tistory.com/356)
+
+> **Period: Dec 2024 - Feb 2025**
+
+1. **IaaS Environment Setup & Deep Dive**
+    - **[Action]** To deeply understand cloud virtualization principles, built a **private cloud from bare-metal using OpenStack**.
+    - **[Outcome]** Organized and led an OpenStack study group; completed IaaS environment setup and documented the entire process on **technical blog (OpenStack & Kubernetes categories)**.
+2. **Observability**
+    - **[Problem]** No observability tooling to understand the state of the deployed infrastructure.
+    - **[Solution]** Integrated **Prometheus and Grafana** to build a real-time monitoring dashboard for the hybrid cloud environment.
 
 ---
 
-## 👥 개발 동아리/대외 활동
+## Extracurricular Activities
 
 ### Amazon Web Services (AWS) | Cloud Club Captain
-> *2025.11 - Present*
 
-- 건국대학교 **초대 AWS Cloud Club 캡틴**으로 선정 (Founding Captain).
-- [meet up link](https://www.meetup.com/aws-cloud-club-at-konkuk-university/)
+*2025.11 - Present*
 
-### KUIT (대학생 IT 연합 동아리) | 6기 서버 파트장
-> *2025.09 - Present*
+- Selected as the **inaugural AWS Cloud Club Captain** at Konkuk University (Founding Captain).
 
-- 실무 중심의 3주 단기 속성 서버 커리큘럼을 직접 설계 및 강의하며 엔지니어 양성에 기여.
+### KUIT (University IT Club) | 6th Gen. Server Part Lead
+
+*2025.09 - Present*
+
+- Designed and delivered a practice-oriented intensive 3-week server curriculum, contributing to engineer training.
 - https://youtube.com/playlist?list=PL7z9i3yYqDwyQDKdaqjTQoFfEuPWlnztL&si=t4y4IzHrZTIUW0Cn
 
-### Bibimbap (건국대 학술 동아리) | 회장
-> *2025.01 - 2025.12*
+### Bibimbap (Konkuk Academic Club) | President
 
-- 깃사용법, SW 아키텍처, 클라우드 시스템 아키텍처, 마이크로서비스 아키텍처, 모니터링, SA 주제로 주간 세미나 총 15주차 30시간 주도.
-- https://konkukcodekat.tistory.com/category/My%20seminar/Bibimbap%28President%29
+*2025.01 - 2025.12*
 
-### SOPT (대학생 IT 연합 동아리) | 35기 서버 파트 부원
-> *2024.09 - 2025.02*
+- Led 15-week, 30-hour weekly seminars covering Git, SW Architecture, Cloud Systems, Microservices Architecture, Monitoring, and SA.
+- [https://konkukcodekat.tistory.com/category/My seminar/Bibimbap(President)](https://konkukcodekat.tistory.com/category/My%20seminar/Bibimbap%28President%29)
 
-- **2학년때 합류 직후** 공동 세미나, 해커톤, 데모데이 등 3개 주요 행사의 서버 리드로 발탁.
-- 'Roomie' 프로젝트 서버 개발 리드.
+### SOPT (University IT Club) | 35th Gen. Server Part Member
+
+*2024.09 - 2025.02*
+
+- **Immediately after joining as a sophomore**, selected as server lead for 3 major events: Joint Seminar, Hackathon, and Demo Day.
+- Led server development for the 'Roomie' project.
 
 ---
 
-## 🏆 Awards
-- SOPT 35기 해커톤 최우수상
-- SOPT 35기 데모데이 우수상
-- 2025 여름방학 컴퓨터공학부 해커톤 우수상
+## Awards
+
+- SOPT 35th Hackathon — Grand Prize
+- SOPT 35th Demo Day — Excellence Award
+- 2025 Summer CS Department Hackathon — Excellence Award
